@@ -1,0 +1,5 @@
+__pycache__
+.vscode/*
+.idea/*
+quikplan*.gif
+quikplan_live_iters/*

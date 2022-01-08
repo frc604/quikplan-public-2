@@ -1,0 +1,7 @@
+PyQt5==5.14
+casadi~=3.5.5
+matplotlib~=3.3.3
+numpy~=1.19.3
+qtmodern~=0.2.0
+
+pynetworktables~=2021.0.0
